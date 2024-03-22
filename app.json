@@ -1,16 +1,16 @@
 {
 
-  "name": "PRABATH-MD (5.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": " Avi (5.0.0)",
+  "description": "Avi has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "Avi"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
   "OWNER_NAME": {
   "description": "Enter your name",
-      "value": "PRABATH"
+      "value": "Avi"
   },
     "DL_SIZE": {
   "description": "The bot cannot download files beyond the number you enter",
@@ -88,7 +88,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "real king;avi✅",
      "required": false 
   }
   
